@@ -5,7 +5,7 @@ require 'omniauth-nk/version'
 Gem::Specification.new do |gem|
   gem.name          = "omniauth-nk"
   gem.version       = Omniauth::Nk::VERSION
-  gem.authors       = ["Arkadiusz Kuryłowicz, Nasza Klasa Spółka z ograniczoną odpowiedzialnością"]
+  gem.authors       = ["Arkadiusz Kurylowicz, Nasza Klasa Spolka z ograniczona odpowiedzialnoscia"]
   gem.date          = '2012-05-25'
   gem.email         = ["arkadiusz.kurylowicz@nasza-klasa.pl"]
   gem.description   = %q{OmniAuth Strategy for nk.pl using OAuth2}
