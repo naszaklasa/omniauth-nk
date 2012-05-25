@@ -1,4 +1,4 @@
-nk.pl OAuth2 Strategy for OmniAuth 1.0
+## nk.pl OAuth2 Strategy for OmniAuth 1.0
 
 Supports the OAuth 2.0 server-side authentication, and OAuth user data endpoint. To get application key/secret please go to http://developers.nk.pl
 
